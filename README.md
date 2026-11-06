@@ -63,7 +63,8 @@
 
 | Project | What it is | Tech |
 |---|---|---|
-| **Lehenga Inventory & Rental System** — *Production* | Live inventory, booking & payment system built for a real rental shop in Sagar. Public catalogue, staff logins with lockout, per-day rent, negotiated pricing, Drive photo storage, and a live bookings CSV that updates in real time. | React, Supabase (PostgreSQL), Vercel, Google Drive API |
+| **[Demo Inventory](https://github.com/Tanishsahu13/Demo-Inventory)** — *Live Demo: [demo-inventory-five.vercel.app](https://demo-inventory-five.vercel.app)* | Full-stack inventory & rental management system — public catalogue, smart bookings with date-conflict blocking, payments, Drive photo storage, staff roles with login lockout, and a live bookings CSV that updates in real time. The demo wipes itself clean daily at midnight IST. | React, Supabase (PostgreSQL), Vercel, Google Drive API |
+| **Lehenga Inventory & Rental System** — *Production* | The real production system behind Demo Inventory, built for a lehenga rental shop (Poonam Lehenga Bhandar) in Sagar and running daily on the shop's own accounts with real staff, bookings and payments. Public catalogue, staff logins with lockout, per-day rent, negotiated pricing, Drive photo storage, and a live bookings CSV that updates in real time. Source is private — Demo Inventory above is its public version. | React, Supabase (PostgreSQL), Vercel, Google Drive API |
 | **[Smart Tiffin / Food Ordering System](https://github.com/Tanishsahu13/Smart-Tiffin)** | Full-stack food ordering app — auth, menu browsing, cart & order placement, admin panel, with a responsive React UI and REST APIs. | MongoDB, Express, React, Node.js |
 | **Hospital Management System** | Built in a 6-week Agile Scrum sprint — patients, doctors, appointments, billing & staff modules with JDBC, data validation and secure authentication. | Java Swing, AWT, MySQL, JDBC |
 
