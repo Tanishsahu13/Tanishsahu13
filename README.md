@@ -70,6 +70,12 @@
 
 ---
 
+### 🌍 Open-Source Contributions
+
+- **[FinSim](https://github.com/mhnuk2007/finsim)** — first merged PR: added six ISO 20022 return reason codes (AC06, AG01, BE04, RC01, RR01, RR04) with tests — [PR #21](https://github.com/mhnuk2007/finsim/pull/21) (merged 9 Nov 2026, closes #15)
+
+---
+
 ### 📜 Certifications
 
 - **Microsoft Certified: Power BI Data Analyst Associate** — Microsoft
